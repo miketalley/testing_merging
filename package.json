@@ -1,0 +1,19 @@
+{
+  "name": "testing_merging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketalley/testing_merging.git"
+  },
+  "author": "Mike Talley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miketalley/testing_merging/issues"
+  },
+  "homepage": "https://github.com/miketalley/testing_merging#readme"
+}
